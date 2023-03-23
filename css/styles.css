@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
+}
+header img {
+  width: 10vw;
+  height: 12vh;
+ 
+}
+.title {
+ font-size: 2.5em;
+}
+.imagen { 
+  margin-left: 30px;
+  margin-top: 184px;
+}
+.fondo {
+  width: 100vw;
+  height: 50vh;
+}
+.info-content {
+  margin-top: 10px;
+  margin-left: 130px;
+}
+.wrapper {
+  width: 100vw;
+  height: 210vh;
+  background-color: rgb(16, 0, 46);
+  color:rgb(255, 255, 255);
+
+  
+}
+.navbar {
+  display: flex;
+  justify-content:  space-evenly;
+  padding: 2em;
+  color: rgb(255, 255, 255);
+  
+}
+.navbar span {
+  color: rgb(127, 225, 255);
+  
+}
+.navbar h1 {
+margin-top: -119px;
+margin-left: 20px;
+}
+
+.brand {
+  margin-top: -100px;
+  margin-left: -60px;
+}
+.brand span {
+color: rgb(153, 255, 255);
+}
+.menu li {
+  list-style: none;
+  text-decoration: none;
+}
+.menu a {
+  color:rgb(206, 255, 251);
+  text-decoration: none;
+  padding: 10px 20px;
+  margin-left: -200px;
+  
+}
+.menu {
+  display: flex;
+  width: 50%;
+  font-size: 1.5em;
+  justify-content: space-around;
+  font-weight: 800;
+}
+.menu .manuel {
+  width: 10px;
+ 
+
+}
+.menu a:hover {
+  background-color: rgb(159, 255, 255);
+  color: rgb(0, 0, 0);
+  transition: ease-in .3s;
+}
+
+.main {
+  margin: 0 auto;
+  width: 80vw;
+  height: 80vh;
+  
+  grid-template-columns: repeat(2,1fr);
+  align-items: center;
+  margin-bottom: 30px;
+
+}
+.main p {
+  font-size: 1.6em;
+  font-weight: 500;
+}
+.imagen  {
+  width:  13vw;
+  height: 31vh;
+ position: absolute;
+  
+}
+
+h1  {
+  color: rgb(255, 255, 255);
+  font-size: 3em;
+ 
+
+}
+
+h1 span {
+ color: aqua;
+}
+.repollo {
+  margin-top: 100px;
+}
+.elo {
+  margin-left: 160px;
+  
+  justify-content: center;
+  color: aqua;
+}
+.peo {
+  margin-top: 100px;
+}
+.aca  {
+  margin-left: 120px;
+  margin-top: -100px;
+}
+.peo2 {
+  margin-top: 100px;
+}
+.aca2  {
+  margin-left: 120px;
+  margin-top: -100px;
+}
+.peo3 {
+  margin-top: 100px;
+}
+.aca3  {
+  margin-left: 120px;
+  margin-top: -100px;
+}
+.peo4 {
+  margin-top: 100px;
+}
+.aca4  {
+  margin-left: 120px;
+  margin-top: -100px;
+}
+.peo5 {
+  margin-top: 100px;
+}
+.aca5  {
+  margin-left: 120px;
+  margin-top: -100px;
+}
+.peo6 {
+  margin-top: 100px;
+}
+.aca6  {
+  margin-left: 120px;
+  margin-top: -100px;
+}
+.peo7 {
+  margin-top: 100px;
+}
+.aca7 {
+  margin-left: 120px;
+  margin-top: -100px;
+}
+.peo8 {
+  margin-top: 100px;
+}
+.aca8  {
+  margin-left: 120px;
+  margin-top: -100px;
+}
+
+
+
